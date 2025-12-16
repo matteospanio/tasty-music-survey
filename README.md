@@ -10,14 +10,14 @@ In addition to the authors of the paper, we would like to acknowledge the contri
 
 - **Dr. Bruno Mesz**, professor and researcher at Universidad Nacional de Tres de Febrero (Argentina)
 - **Dr. Masaki Ono**, postdoctoral researcher at the Ritsumeikan University (Japan)
-- **Dr. Riccardo Migliavada**, research associate at Università delle Scienze Gastronomiche di Pollenzo
-- **Dr. Luisa Torri**, full professor at Università delle Scienze Gastronomiche di Pollenzo
+- **Dr. Riccardo Migliavada**, postdoctoral researcher at Università delle Scienze Gastronomiche di Pollenzo (Italy)
+- **Dr. Luisa Torri**, full professor at Università delle Scienze Gastronomiche di Pollenzo (Italy)
 
 ## How to cite
 
 If you refer this survey in your research, please cite the following paper:
 
-```
+```bibtex
 @article{spanio_frontiers_2025,
   language = {en},
   author = {Spanio, Matteo and Zampini, Massimiliano and Rodà, Antonio and Pierucci, Franco},
