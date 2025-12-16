@@ -8,8 +8,9 @@ This project extends the work started in the paper *A Multimodal Symphony: Integ
 
 In addition to the authors of the paper, we would like to acknowledge the contributions of the following individuals:
 
-- **Dr. Bruno Mesz** - Professor and researcher at Universidad Nacional de Tres de Febrero (Argentina)
-- **Dr. Masaki Ono** - Postdoctoral researcher at the Ritsumeikan University (Japan)
+- **Dr. Bruno Mesz**, professor and researcher at Universidad Nacional de Tres de Febrero (Argentina)
+- **Dr. Masaki Ono**, postdoctoral researcher at the Ritsumeikan University (Japan)
+- **Dr. Riccardo Migliavada**, research associate at Università delle Scienze Gastronomiche di Pollenzo and **Dr. Luisa Torri**, full professor at Università delle Scienze Gastronomiche di Pollenzo
 
 ## License
 
