@@ -10,7 +10,8 @@ In addition to the authors of the paper, we would like to acknowledge the contri
 
 - **Dr. Bruno Mesz**, professor and researcher at Universidad Nacional de Tres de Febrero (Argentina)
 - **Dr. Masaki Ono**, postdoctoral researcher at the Ritsumeikan University (Japan)
-- **Dr. Riccardo Migliavada**, research associate at Università delle Scienze Gastronomiche di Pollenzo and **Dr. Luisa Torri**, full professor at Università delle Scienze Gastronomiche di Pollenzo
+- **Dr. Riccardo Migliavada**, research associate at Università delle Scienze Gastronomiche di Pollenzo
+- **Dr. Luisa Torri**, full professor at Università delle Scienze Gastronomiche di Pollenzo
 
 ## License
 
